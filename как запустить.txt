@@ -10,7 +10,7 @@ cd news-feed
 
 npm install react-router-dom
 
-4) Замените папку news-feed по данному пути на мою (C:\Users\admin(ваше имя пользователя)).
+4) Замените код в src/App.js (на мой файл) путь* - C:\Users\имя пользователя\news-feed.
 
 Запустите приложение:
 
