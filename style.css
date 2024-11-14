@@ -1,0 +1,12 @@
+body {
+  padding-top: 20px;
+}
+
+#postList .list-group-item {
+  cursor: pointer;
+}
+
+#postDetailModal .modal-body {
+  max-height: 400px;
+  overflow-y: auto;
+}
