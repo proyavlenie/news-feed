@@ -8,9 +8,9 @@ cd news-feed
 
 3) Установите зависимости для React Router:
 
-npm install react-router-dom
+npm install react-router-dom axios bootstrap
 
-4) Замените код в src/App.js (на мой файл) путь* - C:\Users\имя пользователя\news-feed.
+4) Замените папку news-feed по данному пути на мою (C:\Users\admin(ваше имя пользователя)).
 
 Запустите приложение:
 
